@@ -1,0 +1,19 @@
+{
+  "name": "mealback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumol/mealback.git"
+  },
+  "author": "kumol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumol/mealback/issues"
+  },
+  "homepage": "https://github.com/kumol/mealback#readme"
+}
