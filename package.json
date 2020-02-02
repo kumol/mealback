@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kumol/mealback/issues"
   },
-  "homepage": "https://github.com/kumol/mealback#readme"
+  "homepage": "https://github.com/kumol/mealback#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
